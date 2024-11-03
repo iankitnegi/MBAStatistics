@@ -24,7 +24,6 @@ The median is a measure of central tendency that represents the middle value in 
 - Resistant to Outliers: Unlike the mean, the median is not affected by extremely high or low values, making it a better measure of central tendency for skewed distributions.
 - Useful for Skewed Data: In datasets that are not symmetrically distributed, the median provides a better central location of the data.
 
-
-[Link](https://www.turing.com/kb/statistical-data-types)
-(https://www.mymarketresearchmethods.com/types-of-data-nominal-ordinal-interval-ratio)
+### Types of Data:  
+Source 1: [Link](https://www.turing.com/kb/statistical-data-types)  Source 2: [Link](https://www.mymarketresearchmethods.com/types-of-data-nominal-ordinal-interval-ratio)
 
