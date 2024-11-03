@@ -18,3 +18,12 @@ In statistics and data analysis, the mean (also known as the average) is a measu
 - Affected by Outliers: The mean can be heavily influenced by outliers (extremely high or low values).
 - Best for Symmetrical Distributions: It's most accurate for datasets with a symmetrical distribution.
 
+### Median:  
+The median is a measure of central tendency that represents the middle value in a dataset when it is ordered from least to greatest. It divides the dataset into two halves, with 50% of the values being less than or equal to the median and 50% being greater than or equal to the median.  
+#### Importance of Median:
+- Resistant to Outliers: Unlike the mean, the median is not affected by extremely high or low values, making it a better measure of central tendency for skewed distributions.
+- Useful for Skewed Data: In datasets that are not symmetrically distributed, the median provides a better central location of the data.
+
+
+
+
