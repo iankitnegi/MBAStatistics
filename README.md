@@ -1,1 +1,2 @@
 # Pre-MBA Statistics  
+Welcome to my GitHub repository where I document my journey and insights from the Pre-MBA Statistics course by IIM-A. This space is dedicated to sharing my learning, projects, and practical applications of statistical concepts explored during the course. Dive in to find detailed notes, data analysis projects, and visualizations that showcase the power of statistics in the business world.
