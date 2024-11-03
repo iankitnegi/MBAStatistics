@@ -25,5 +25,6 @@ The median is a measure of central tendency that represents the middle value in 
 - Useful for Skewed Data: In datasets that are not symmetrically distributed, the median provides a better central location of the data.
 
 
-
+[Link](https://www.turing.com/kb/statistical-data-types)
+(https://www.mymarketresearchmethods.com/types-of-data-nominal-ordinal-interval-ratio)
 
