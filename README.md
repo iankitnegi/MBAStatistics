@@ -25,5 +25,35 @@ The median is a measure of central tendency that represents the middle value in 
 - Useful for Skewed Data: In datasets that are not symmetrically distributed, the median provides a better central location of the data.
 
 ### Types of Data:  
-Source 1: [Link](https://www.turing.com/kb/statistical-data-types)  Source 2: [Link](https://www.mymarketresearchmethods.com/types-of-data-nominal-ordinal-interval-ratio)
+Source 1: [Link](https://www.turing.com/kb/statistical-data-types)  Source 2: [Link](https://www.mymarketresearchmethods.com/types-of-data-nominal-ordinal-interval-ratio)  
+
+## Random Experiment:  
+Random experiment is a process or activity that leads to one of several possible outcomes, where the outcome cannot be predicted with certainty beforehand. Each time the experiment is conducted, it may result in a different outcome, even if the conditions are the same.
+
+Key Characteristics:
+- Uncertainty: The outcome cannot be known in advance.
+- Repeatability: The experiment can be repeated under the same conditions.
+- Outcomes: There are multiple possible outcomes.
+- Randomness: Each outcome is determined by chance.
+
+Examples of Random Experiments:
+- Flipping a Coin: Each flip can result in either heads or tails, and the result is unpredictable.
+- Rolling a Dice: Each roll can result in one of six faces showing up, and the result is random.
+- Drawing a Card: Drawing a card from a shuffled deck has multiple possible outcomes, and which card is drawn is uncertain.
+
+### Sample Space:  
+In statistics and probability theory, the sample space is the set of all possible outcomes of a random experiment. It provides a comprehensive list of everything that could happen when the experiment is performed.
+
+Key Points:
+- Complete Set: It includes every possible outcome.
+- Notation: Often denoted by the symbol 𝑆 or Ω
+- Mutually Exclusive Outcomes: Each outcome in the sample space is distinct from the others.
+
+Examples of Sample Spaces:
+- Flipping a Coin: The sample space is 𝑆 = {Heads, Tails}
+- Rolling a Dice: The sample space is 𝑆 = {1,2,3,4,5,6}
+- Drawing a Card from a Deck: The sample space consists of all 52 cards, 𝑆 = {Ace of Hearts, 2 of Hearts,…,King of Spades}
+
+Importance in Probability:
+The sample space is crucial for defining events, which are subsets of the sample space. For example, in rolling a dice, an event could be rolling an even number, which is a subset of the sample space: {2, 4, 6}
 
