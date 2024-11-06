@@ -24,6 +24,15 @@ The median is a measure of central tendency that represents the middle value in 
 - Resistant to Outliers: Unlike the mean, the median is not affected by extremely high or low values, making it a better measure of central tendency for skewed distributions.
 - Useful for Skewed Data: In datasets that are not symmetrically distributed, the median provides a better central location of the data.
 
+### Percentiles:  
+A percentile indicates the value below which a given percentage of observations in a dataset falls. For example, the 20th percentile is the value below which 20% of the observations may be found.  
+How to Calculate Percentiles:  
+- Sort the Data: Arrange your data in ascending order.  
+- Determine the Percentile Rank: Use the formula: 𝑃 = (𝑅−1/𝑁)×100  
+  where: 𝑃 is the percentile rank.    
+         𝑅 is the rank of the value in the sorted dataset.    
+         𝑁 is the total number of values.    
+
 ### Types of Data:  
 Source 1: [Link](https://www.turing.com/kb/statistical-data-types)  Source 2: [Link](https://www.mymarketresearchmethods.com/types-of-data-nominal-ordinal-interval-ratio)  
 
