@@ -26,7 +26,7 @@ The median is a measure of central tendency that represents the middle value in 
 
 ### Percentiles:  
 A percentile indicates the value below which a given percentage of observations in a dataset falls. For example, the 20th percentile is the value below which 20% of the observations may be found.  
-How to Calculate Percentiles:  
+### How to Calculate Percentiles:  
 - Sort the Data: Arrange your data in ascending order.  
 - Determine the Percentile Rank: Use the formula: 𝑃 = (𝑅−1/𝑁)×100  
   where: 𝑃 is the percentile rank.    
@@ -66,3 +66,18 @@ Examples of Sample Spaces:
 Importance in Probability:
 The sample space is crucial for defining events, which are subsets of the sample space. For example, in rolling a dice, an event could be rolling an even number, which is a subset of the sample space: {2, 4, 6}
 
+### Events:  
+An event is any outcome or a specific set of outcomes from a random experiment. Events are fundamental in the study of probability because they form the basis for determining the likelihood of different outcomes.  
+
+Key Points:
+- Definition: An event is a subset of the sample space. The sample space includes all possible outcomes, while an event consists of one or more of these outcomes.
+- Simple Event: An event with a single outcome.
+- Compound Event: An event with two or more outcomes.
+
+Examples of Events:
+- Flipping a Coin:    
+  Simple Event: Getting Heads.  
+  Compound Event: Getting either Heads or Tails (which is also the entire sample space).  
+- Rolling a Die:    
+  Simple Event: Rolling a 3.      
+  Compound Event: Rolling an even number (2, 4, 6).    
